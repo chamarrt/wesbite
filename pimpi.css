@@ -1,0 +1,109 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Dela+Gothic+One&family=Rock+3D&display=swap');
+
+
+h1{
+    text-align: center;
+    font-size: 4em;
+    font-family: 'Rock 3D', cursive;
+}
+h2{
+    text-align: center;
+    font-family: 'Dela Gothic One', cursive;
+    
+}
+.mem{
+    align-content: center;
+}
+body{
+    margin-top: 5em;
+    background-color: rgb(252, 218, 180);
+}
+video{
+    display: block;
+margin: 0 auto;
+}
+#twentyone{
+    text-align: right;
+}
+.butt {
+    border: none;
+    padding: 10px 18px;
+    text-align: center;
+    text-decoration:none;
+    font-family: 'Dela Gothic One', cursive;
+    display: inline-block;
+    border-radius: 12px;
+    font-size: 13px;
+    margin: 8px 9px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    background-color: rgb(252, 218, 180); 
+    color: black; 
+    border: 2px solid #3565d5;
+}
+.back{
+    position:  fixed;
+    left:0;
+    top : 0;
+}
+.firstpage{
+    text-align: center;
+}
+.menus{
+    margin-left: 2em;
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}
+/*.butt,#back{
+    
+  }*/
+.butt:hover {
+    background-color: #318ced;
+    color: white;
+  }
+/*.backto{
+    position:  fixed;
+    top : 0;
+    left:0;
+    
+}*/
+p{
+    margin-bottom: 4em; 
+    text-align: center;
+    white-space: pre;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+  }
+  @media screen and (min-width : 480px) and (orientation : landscape)
+  {
+      #photo{
+          width : 400;
+          
+      }
+
+      .vid{
+          width:500px;
+      }
+      
+  }
+  @media screen and (max-width : 480px) and (orientation : portrait)
+  {
+      #photo{
+          width : 100;
+          
+      }
+
+      .vid{
+          width:500px;
+      }
+      
+  }
+
