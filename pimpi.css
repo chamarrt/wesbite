@@ -82,18 +82,7 @@ p{
     margin-right: auto;
     width: 500px;
   }
-  @media screen and (min-width : 480px) and (orientation : landscape)
-  {
-      #photo{
-          width : 400;
-          
-      }
-
-      .vid{
-          width:500px;
-      }
-      
-  }
+ 
   @media screen and (max-width : 480px) and (orientation : portrait)
   {
       #photo{
@@ -102,7 +91,7 @@ p{
       }
 
       .vid{
-          width:500px;
+          width:300px;
       }
       
   }
