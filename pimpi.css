@@ -94,6 +94,9 @@ p{
     font-size: 3em;
     font-family: 'Rock 3D', cursive;
         }
+      p{
+          font-size : 50vw
+      }
       .vid{
           width:100vw;
         }
