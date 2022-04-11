@@ -86,7 +86,7 @@ p{
   @media screen and (max-width : 480px) and (orientation : portrait)
   {
       #photo{
-          width : 10vw;
+          width : 100vw;
           
       }
       h1{
