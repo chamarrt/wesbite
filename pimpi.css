@@ -86,7 +86,7 @@ p{
   @media screen and (max-width : 480px) and (orientation : portrait)
   {
       #photo{
-          width : 100vw;
+          width : 50vw;
           
       }
       h1{
@@ -95,7 +95,7 @@ p{
     font-family: 'Rock 3D', cursive;
         }
       .vid{
-          width:4em;
+          width:100vw;
         }
       
   }
