@@ -87,9 +87,10 @@ p{
   @media screen and (max-width : 480px) and (orientation : portrait)
   {
       #photo{
-          width : 60vw;
-          
+          width : 40vw;    
       }
+      
+   
       h1{
     text-align: center;
     font-size: 3em;
