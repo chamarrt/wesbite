@@ -18,7 +18,7 @@ h2{
 }
 body{
     margin-top: 5em;
-    background-color: rgb(252, 218, 180);
+    background-color: rgb(238, 238, 138);
 }
 video{
     display: block;
@@ -39,7 +39,7 @@ margin: 0 auto;
     margin: 8px 9px;
     transition-duration: 0.4s;
     cursor: pointer;
-    background-color: rgb(252, 218, 180); 
+    background-color: rgb(238, 238, 238); 
     color: black; 
     border: 2px solid #3565d5;
 }
