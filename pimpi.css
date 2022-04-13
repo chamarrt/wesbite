@@ -87,10 +87,10 @@ p{
   @media screen and (max-width : 480px) and (orientation : portrait)
   {
       #photo{
-          width : 40vw;    
+          width : 50vw;    
       }
       .mini{
-          width:40vw;
+          width:50vw;
           position: absolute left = 2vw right=2vw;
       }
    
@@ -101,7 +101,7 @@ p{
         }
       h2{
     text-align: center;
-    font-size: 2em;
+    font-size: 5vw;
     font-family: 'Dela Gothic One', cursive;
     
 }
