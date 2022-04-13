@@ -89,7 +89,10 @@ p{
       #photo{
           width : 40vw;    
       }
-      
+      .mini{
+          width:40vw;
+          position: absolute left = 18vw right=18vw;
+      }
    
       h1{
     text-align: center;
