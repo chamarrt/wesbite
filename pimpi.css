@@ -91,7 +91,7 @@ p{
       }
       .mini{
           width:40vw;
-          position: absolute left = 18vw right=18vw;
+          position: absolute left = 2vw right=2vw;
       }
    
       h1{
@@ -99,8 +99,14 @@ p{
     font-size: 3em;
     font-family: 'Rock 3D', cursive;
         }
+      h2{
+    text-align: center;
+    font-size: 2em;
+    font-family: 'Dela Gothic One', cursive;
+    
+}
       p{
-          font-size : 7vw;
+          font-size : 4vw;
       }
       .vid{
           width:75vw;
