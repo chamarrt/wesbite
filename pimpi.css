@@ -107,6 +107,7 @@ p{
 }
       p{
           font-size : 4vw;
+          word-wrap: break-word;
       }
       .vid{
           width:75vw;
