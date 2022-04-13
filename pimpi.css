@@ -75,6 +75,7 @@ p{
     margin-bottom: 4em; 
     text-align: center;
     white-space: pre;
+    word-wrap: break-word;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 .center {
@@ -107,7 +108,6 @@ p{
 }
       p{
           font-size : 4vw;
-          word-wrap: break-word;
       }
       .vid{
           width:75vw;
