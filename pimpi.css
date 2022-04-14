@@ -92,7 +92,7 @@ p{
       }
       .mini{
           width:50vw;
-          position: absolute left = 2vw right=2vw;
+          display: inline-block;
       }
    
       h1{
