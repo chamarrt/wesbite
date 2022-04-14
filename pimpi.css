@@ -75,7 +75,9 @@ p{
     margin-bottom: 4em; 
     text-align: center;
     white-space: pre;
-    word-wrap: break-word;
+    display: inline-block;
+    word-break: break-word;
+    
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 .center {
